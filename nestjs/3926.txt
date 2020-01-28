@@ -1,0 +1,22 @@
+https://github.com/nestjs/nest/pull/3926
+
+各サンプルにlisten時のログを出力する処理を追加
+
+
+```
+@kamilmysliwiec I'm sorry. My understanding was wrong.
+
+Please check it because it has been fixed.
+I've added in URL output to every sample.
+
+Is it better to add it to the cli for nest new project-name?
+```
+理解を間違えていました。ごめんなさい
+
+修正しましたのでご確認をお願い致します。
+全てのサンプルにURLを出力する処理を追加しました。
+
+nest new project-nameのcliにも処理を追加した方が良いですか？
+
+
+Is it better to : 〜した方が良いですか？
