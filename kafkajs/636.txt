@@ -1,0 +1,18 @@
+https://github.com/tulios/kafkajs/pull/636
+
+tulios さん 
+@uc4w6c I will take a look, it might just be a flaky test. I can re-run the group that is failing. Should I re-open the PR?
+私が見てみると、それは単なる不安定なテストかもしれません。 失敗しているグループを再実行できます。 PRを再開する必要がありますか？
+
+
+自分
+Really?
+Thank you by all means.
+本当？ありがとうございます。是非お願いします。
+
+
+## Point
+by all means
+もちろん！、どうぞどうぞ
+
+みたいな意味らしいので、ちょっとニュアンス違うかも・・・
