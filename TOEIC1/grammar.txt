@@ -1,0 +1,17 @@
+## 名詞
+### 名詞の主な働き
+ * 主語  Cars run. -> Cars:主語、run:動詞
+ * 動詞の目的語  People like music. -> Peopple:主語(名詞)、like:動詞、music:目的語(名詞)
+ * 前置詞の目的語  in the room -> in:前置詞、room:目的語(名詞)   to America -> to:前置詞、America:目的語(名詞)
+
+### 名詞に多い語尾
+ * -tion, -sion   -> action, discussion
+ * -ment   -> government, employment
+ * -ness   -> kindness, happiness
+ * -ty   -> reality, ability
+ * -ance, ence   -> finance, convenience
+ * -cy   -> policy, agency
+ * -th   -> health, length
+ * -er, -or   -> employer, advisor
+ * -cian   -> electrician, politician
+
