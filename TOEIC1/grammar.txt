@@ -15,3 +15,39 @@
  * -er, -or   -> employer, advisor
  * -cian   -> electrician, politician
 
+### 名詞の種類
+#### 不可算名詞
+液体、気体などの形が一定ではなく、数えられないもの
+water, air, silver, healthなど
+
+#### 可算名詞
+形が一定で数えられるもの
+worker, vehicle, company
+
+2つ以上になると複数形で表す
+* 規則変化
+　-s or -es をつけるもの
+  job -> jobs,  box -> boxes,  party -> parties
+* 不規則変化
+  woman -> women,  child -> children,  foot -> feet
+* 例外
+  -sが付いているが不可算名詞 -> news
+  -sがついていないが複数扱い -> people
+
+#### 数量形容詞の種類
+* 可算名詞の複数形に付く数量形容詞
+　a few 2,3人の
+  several 数個の
+  many 多くの
+
+* 可算名詞の単数形につく数量形容詞
+  one 1つの
+  every すべての
+  each それぞれの
+* 不可算名詞につく数量形容詞
+  a little  少しの
+  much  たくさんの
+* 可算・不可算どちらにもつく数量形容詞
+  some/any  いくつかの
+  a lot of  たくさんの
+  most   ほとんどの
