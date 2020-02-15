@@ -51,3 +51,41 @@ worker, vehicle, company
   some/any  いくつかの
   a lot of  たくさんの
   most   ほとんどの
+
+#### 代名詞の形と種類
+* 代名詞の格
+  * 主格: 主語になる形
+　　We visited the customer.
+    Weが主格
+  * 所有格: 名詞について所有を表す形
+    Mr. Lee lost his job.
+    hisが所有格
+  * 目的格: 動詞、前置詞の目的語になる形
+    Music relaxes us.
+    usが目的格
+
+* 特別な代名詞の形
+  * 所有代名詞: 所有格+名詞を表す形
+    This car is not mine.
+    mineが所有代名詞
+  * 再帰代名詞: 強調を表す形
+    Ray did the job himself.
+    himselfが再帰代名詞
+
+* 代名詞の人称
+  * 一人称: 話し手を中心に考える
+    I, We
+  * 二人称: 目の前の人
+    you
+  * 三人称: 一人称、二人称以外
+    they, it
+
+## 動詞
+### 動詞の種類
+ * be動詞: am, is, are
+ * 一般動詞: do, haveなどのbe動詞以外の全ての動作や状態を表す動詞
+
+### 主語による動詞の変化
+主語の数と人称によって動詞の形が変わる
+I ->   -s: stop, -es: do, 不規則: have
+you -> Iと同じ
