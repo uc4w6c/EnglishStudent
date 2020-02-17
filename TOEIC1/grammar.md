@@ -89,3 +89,57 @@ worker, vehicle, company
 主語の数と人称によって動詞の形が変わる
 I ->   -s: stop, -es: do, 不規則: have
 you -> Iと同じ
+
+### 助動詞
+主な助動詞の意味
+ * can: できる、であり得る
+ * may: して良い、かもしれない。
+ * must: しなければならない。・・・に違いない
+ * wil: するつもりだ
+ * should: するべき、するはずだ
+ * have to: must, shouldと同じ。ただし not have to の場合は、しなくても良い
+
+助動詞の過去形
+現在形 : 過去形
+can : could
+may : might
+must : -
+will : would
+shall : should
+
+例
+Would / Could  you help me? -> 手伝ってもらえますか？
+I would like something to drink. -> 何か飲み物をいただきたいのですが
+The flight might be late. -> フライトは遅れるかもしれない。
+
+### 時制
+1. be動詞
+現在 : 過去形 : 過去分詞
+am : was : been
+is : was : been
+are : were : been
+
+2. 一般動詞の活用例(規則変化)
+現在 : 過去形 : 過去分詞
+want(s) : wanted : wanted
+study(-ies) : studied : studied
+stop(s) : stopped : stopped
+
+3. 一般動詞の活用例(不規則変化)
+現在 : 過去形 : 過去分詞
+have/has : had : had
+go(es) : went : gone
+take(s) : took : taken
+
+
+その他
+現在 : 過去形 : 過去分詞
+send : sent : sent
+hold : held : held
+find : found : found
+break : broke : broken
+choose : chose : chosen
+bring : brought : brought
+
+#### 現在に視点があるとき
+
