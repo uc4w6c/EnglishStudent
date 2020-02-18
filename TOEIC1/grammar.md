@@ -142,4 +142,51 @@ choose : chose : chosen
 bring : brought : brought
 
 #### 現在に視点があるとき
+ * 現在形
+   主語 + 動詞で表現
+   Jim is a chief enginner.
+
+ * 現在進行形
+   be動詞 + 動詞の原形 -ing
+   Jim is working in his office.
+
+ * 現在完了形
+   have / has + 過去分詞
+   過去起きたことが今も影響していることを表す
+   * 継続: 過去の一時点から今まで動作や状態が続いている
+     Jim has been a chief for five years.  -> ジムは5年間主任をしている
+
+   * 経験: 過去の一時点から今までに経験したことがある
+     We have seen his wife.  -> われわれは彼の妻に会ったことがある
+
+   * 結果: 過去に完了した結果が今も影響している
+     He has gone to London.  -> 彼はロンドンに行ってしまった
+
+#### 過去に視点があるとき
+  * 過去形
+　　主語 + 過去形
+    We were lucky yesterday. 
+
+  * 過去進行形
+　　be動詞の過去形(was / were) + 動詞の原形 -ing
+    Dr. Che was giving a speech when we entered the room.  -> 私たちが入室したとき、チェ博士はスピーチをしているところだった
+
+  * 過去完了形
+    had + 過去分詞
+    Dr. Che had finished his speech when we entered the room.   -> 私たちが入室したとき、チェ博士はスピーチを終えていた
+
+#### 未来に視点があるとき
+  * 未来形
+　　will + 動詞の原形
+    You will be a good teacher.  -> あなたは良い先生になるだろう
+
+  * 未来進行形
+　　will + be + 動詞の原形 -ing
+    The shipment will be arriving tomorrow.  -> 荷物は明日着くだろう
+
+  * 未来完了
+    will + have + 過去分詞
+    We will have reached a conclusion by tomorrow at noon.  -> 明日正午までに結論に達しているだろう
+
+### 受動態
 
