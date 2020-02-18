@@ -189,4 +189,15 @@ bring : brought : brought
     We will have reached a conclusion by tomorrow at noon.  -> 明日正午までに結論に達しているだろう
 
 ### 受動態
+  受動態の作り方: be動詞 + 過去分詞
+  STEP1: 動詞の目的語を見つけて主語にする
+  STEP2: be動詞を置く
+  STEP3: 過去分詞を奥
+  STEP4: 行為者を置く (by ~) ただし行為者が一般的な人のときは省略される
+
+  French is spoken in Quebec.  -> ケベックではフランス語が話されている
+  -> 元の能動態の文
+    They speak French in Quebec.
+
+## 形容詞と副詞
 
