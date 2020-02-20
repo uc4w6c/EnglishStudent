@@ -200,4 +200,22 @@ bring : brought : brought
     They speak French in Quebec.
 
 ## 形容詞と副詞
+### 形容詞
+ * 補語になる
+   The building is famous.
+   building: 主語、　is: 動詞、　famous: 補語
+ * 名詞を修飾する
+   We like the old building.
+   old: 形容詞、　building: 名詞
+
+#### 目的語と補語の違い
+ * 主語=補語だが、主語/= 目的語
+   Gary is a doctor.  Gary = doctor  doctorが補語
+   Gary is kind.  Gary = kind
+   Gary liked dogs.  Gary /= dogs
+
+ * 補語になるのは名詞（代名詞）か形容詞、目的語になるのは名詞（代名詞）
+    Gary likes dogs.   ◯
+　　Gary likes kind.   ×
+     -> kindは目的語になれない
 
