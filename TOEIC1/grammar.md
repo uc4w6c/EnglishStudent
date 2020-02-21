@@ -219,3 +219,15 @@ bring : brought : brought
 　　Gary likes kind.   ×
      -> kindは目的語になれない
 
+### 副詞
+ * 副詞の働き
+   * 動詞を修飾する
+     Tess moves slowly.
+     moves: 動詞、 slowly: 副詞
+   * 形容詞を修飾する
+     Tess is really slow.
+     really: 副詞、  slow: 形容詞
+   * 他の副詞を修飾する
+     Tess moves really slowly.
+     moves: 動詞,  really: 副詞(slowlyを修飾),  slowly:副詞 (movesを修飾)
+
