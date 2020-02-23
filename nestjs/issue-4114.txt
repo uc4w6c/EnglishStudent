@@ -1,0 +1,99 @@
+## 日本語
+原因がわかりました
+
+`adminApp`と` apiApp`はそれぞれ、initメソッドの実行時にregisterRouterHooksメソッドを実行します
+
+これによってRouterは以下のようになります。
+
+1. Router: /admin/admin
+2. Midrreware: / (NotFoundHandler)
+3. Midrreware: / (ExceptionHandler)
+4. Router: /api/api
+5. Midrreware: / (NotFoundHandler)
+6. Midrreware: / (ExceptionHandler)
+
+これによって `apiApp router`にアクセスできなくなる
+
+これは想定されている動作でしょうか。
+
+### 対応方法
+もし対応するとした場合は、`express-adapter.ts` を以下のように修正します。
+
+```
+setErrorHandler(handler, prefix) {
+        return this.use('/' + prefix, handler);
+    }
+    setNotFoundHandler(handler, prefix) {
+        return this.use('/' + prefix, handler);
+    }
+```
+
+しかしこれには1つの問題があります。
+ルートURLが間違っていた場合にjsonを返却することができません。
+
+```
+curl http://localhost:3000/cat
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /cat</pre>
+</body>
+</html>
+```
+
+その他、よりよい対応方法があれば教えてください。
+是非、PRを開始したいと思っています。
+
+## English
+I understanded the cause.
+
+`adminApp` and `apiApp` each run registerRouterHooks methods run when init method run.
+This makes the Router look like this.
+
+1. Router: /admin/admin
+2. Midrreware: / (NotFoundHandler)
+3. Midrreware: / (ExceptionHandler)
+4. Router: /api/api
+5. Midrreware: / (NotFoundHandler)
+6. Midrreware: / (ExceptionHandler)
+
+by this, We can't get access to apiApp router.
+
+Is this expected behavior?
+
+## How to respond
+If so, modify `express-adapter.ts` as follows.
+
+```
+setErrorHandler(handler, prefix) {
+        return this.use('/' + prefix, handler);
+    }
+    setNotFoundHandler(handler, prefix) {
+        return this.use('/' + prefix, handler);
+    }
+```
+
+But this has one problem.
+Json cannot be returned if the root URL is wrong.
+
+```
+curl http://localhost:3000/cat
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /cat</pre>
+</body>
+</html>
+```
+
+Please let me know if there is any other better way. 
+By all means, I want to start PR.
+
