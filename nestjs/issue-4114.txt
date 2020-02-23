@@ -1,3 +1,9 @@
+## 学んだこと
+「tell me」と「let me know」の違いと使い分け方
+ tell me の方が積極的に教えを求める
+ let me know の方が消極的。だけど丁寧
+
+
 ## 日本語
 原因がわかりました
 
@@ -78,7 +84,7 @@ setErrorHandler(handler, prefix) {
 ```
 
 But this has one problem.
-Json cannot be returned if the root URL is wrong.
+Json cannot be returned if the root URL is wrong as shown below.
 
 ```
 curl http://localhost:3000/cat
@@ -94,6 +100,5 @@ curl http://localhost:3000/cat
 </html>
 ```
 
-Please let me know if there is any other better way. 
-By all means, I want to start PR.
-
+Please let me know if there is any other better way.
+If possible, I want to start putting together a PR.
