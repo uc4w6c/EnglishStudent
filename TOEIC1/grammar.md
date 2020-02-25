@@ -299,3 +299,21 @@ bring : brought : brought
 
     * How + 形容詞・副詞
       How often do you go to the gym?
+
+#### 間接疑問文
+  * 疑問視を含む疑問文の間接疑問文
+    * 疑問文が目的語になった間接疑問文
+      直接疑問文: What did Guy buy?  ->  ガイは何を買いましたか？
+      間接疑問文: We don't know what Guy bought.  ->  私たちはガイが何を買ったのかを知らない
+
+    * 疑問文が主語になった間接疑問文
+      直接疑問文: How did the accident happen?  ->  どのように事故が起きましたか
+      間接疑問文: How the accident happened is still unclear.  ->  どのように事故が起きたということはいまだ不明だ
+
+  * Yes/No で答える疑問文の間接疑問文
+   疑問詞で始まらない直接疑問文を間接疑問文にするには、「・・・かどうか」の意味になる
+   whether ... or not か、if ... or not を使います。
+
+   直接疑問文: Did Guy leave?  ->  ガイは帰りましたか？
+   間接疑問文: We don't know (whether / if) Guy left (or not)  ->  私たちはガイが帰ったかどうかを知らない
+    or not はよく省略される
