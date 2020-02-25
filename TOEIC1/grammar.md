@@ -231,3 +231,71 @@ bring : brought : brought
      Tess moves really slowly.
      moves: 動詞,  really: 副詞(slowlyを修飾),  slowly:副詞 (movesを修飾)
 
+ * さまざまな副詞
+   * 様態や動作を説明する
+     hard(懸命に), well(うまく), fast(速く)
+   * 時、頻度を表す
+     yesterday(昨日), always(いつも), often(頻繁に), sometimes(時々), already(すでに), soon(すぐに)
+   * 場所を表す
+     there(そこに), here(ここに), abroad(海外に)
+   * その他の副詞
+     very(とても), even(〜でさえ), ever(かつて), also(〜もまた)
+
+### 否定文と疑問文
+  * be動詞か助動詞のある文
+    * 現在形
+      Ray is wrong.  ->  Ray is not wrong.
+    * 助動詞
+　　　Ray can swim.  ->  Ray cannot swim.
+    * 現在完了形
+      Ray has left.  ->  Ray has not left.
+
+  * 一般動詞だけの文
+   do / does / did + not を動詞の前に入れます
+     * 現在形
+      I cook.  ->  I do not cook.
+     * 三人称単数現在
+      Ray cooks.  ->  Ray does not cook.
+     * 過去形
+      Ray left.  ->  Ray did not leave.
+
+  * not 以外の否定語で作る否定的な意味の文
+    * 副詞の否定語
+     never (決して・・ない), seldom / rarely (めったに・・・ない),
+     hardly (ほとんど・・・ない), only (・・・しかない),
+     yet (前のnotとセットで、まだ・・・ない)
+
+     We have not called Ray yet. (私たちはまだレイに電話していない)
+
+    * 代名詞の否定語
+     nothing (何も・・・ない),
+     nobody, no one (誰も・・・ない)
+
+    * 数量形容詞の否定語
+     no (ゼロの), few / little (ほとんどない)
+
+### 疑問詞で始まる疑問文と間接疑問文
+  * 疑問詞で始まる疑問文の作り方
+    疑問文の尋ねたい部分を疑問詞に置き換えて文頭に持っていきます。
+
+    What did Guy close quetly? (ガイは何を静かに閉めたのか)
+    Did Guy close the door quety? (ガイはドアを静かに閉めたか？)
+    How did Guy close the door? (ガイはどのようにドアを閉めたか？)
+
+  * 疑問詞の種類と意味
+    what : 何
+    which : どちら
+    who : 誰が
+    whose : 誰の(もの)
+    who(m) 誰を・と
+    when : いつ
+    where : どこ
+    how : どのように
+    why : なぜ
+
+  * ほかの言葉とセットになる疑問視
+    * what / which / whose + 名詞
+      What / Which / Whose  song do you like?
+
+    * How + 形容詞・副詞
+      How often do you go to the gym?
