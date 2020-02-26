@@ -317,3 +317,43 @@ bring : brought : brought
    直接疑問文: Did Guy leave?  ->  ガイは帰りましたか？
    間接疑問文: We don't know (whether / if) Guy left (or not)  ->  私たちはガイが帰ったかどうかを知らない
     or not はよく省略される
+
+#### その他の文
+ * 命令文
+   * 一般動詞の命令文
+     Stand up. / Don't stand up.
+   * be動詞の命令文
+     Be quiet. / Don't be noisy.
+
+ * 驚嘆文
+   * How + 形容詞・副詞 + (主語 + 動詞)!
+     How good (the show was)!  ->  ショーはなんと良かったのだろう
+   * What + 名詞 + (主語 + 動詞)!
+     What a good show "Fit" was!  ->  フィットはなんと良いショーだったのだろう！
+
+ * 付加疑問文
+    * 肯定文には否定の疑問文がつく
+      We are lucky, aren't we?  ->  私たちってついてますよね
+    * 否定文には肯定の疑問文がつく
+      I can't take photos here, can I?
+
+### It と Thereの構文
+ * 後ろのものを指すItの構文
+   * 後ろの「to + 動詞」を指す
+     It is difficult to succeed in business.  ->  事業に成功するのは難しい
+   * 後ろの「that以下の文」を指す
+     It is said that Bill will quit.  ->  ビルは辞めると言われている
+   * 後ろの「疑問詞で始まる文」を指す
+     It is a mystery why Bill will quit.  ->  なぜビルが辞めるかは謎だ
+
+ * There is / are 構文
+   * 肯定文
+     There was a book in the box.
+     There were some books in the box.
+   * 否定文と疑問文
+     There weren't any books in the box.
+     Were there any books in the box?
+
+ * 後ろの内容を指せるのはItだけ
+   It is nice to live in the country.  -> 田舎に住むのは良い
+    liveをItがさしている
