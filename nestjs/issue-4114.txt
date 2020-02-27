@@ -102,3 +102,27 @@ curl http://localhost:3000/cat
 
 Please let me know if there is any other better way.
 If possible, I want to start putting together a PR.
+
+
+
+
+
+## もう一回のやりとり
+### 日本語
+こんにちは。いつもありがとう！
+aとbのコミットで、下のPRをrevertしたのはなぜか教えてください？
+
+もしrevertの理由が/が付いているときにエラーになるからだとしたら、以下のように修正するけどいいですか？
+
+### 英語
+Hello! Thank you as always.
+Could you tell me why did you revert the following PR in commits (a) and (b)?
+
+If the reason of the revert is that an error occurs when / is appended, am I correct as follows?
+
+
+### ちょっと修正
+もしrevertの理由が/が付いているときにエラーになるからだとしたら、次のように修正するつもりですが問題ないでしょうか。
+
+If the reason of the revert is that an error occurs when / is appended, I will fix it as follows, is that OK?
+
