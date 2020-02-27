@@ -357,3 +357,49 @@ bring : brought : brought
  * 後ろの内容を指せるのはItだけ
    It is nice to live in the country.  -> 田舎に住むのは良い
     liveをItがさしている
+
+## 準動詞
+### 不定詞と動名詞
+#### 不定詞
+ * 不定詞の形: to + 動詞の原形
+   to + 動詞の原形
+   to do, to speak
+
+ * 不定詞の意味と働き
+   * 「・・・すること」:主語や目的語になる
+     To study English is important.  -> 英語を勉強することは重要だ
+     We want to see the place.  -> その場所を見たい
+
+   * 「・・・するべき(ため)の」:直前の名詞・代名詞を修飾
+     Here is a book to read.  -> ここに読むための本がある
+     Please give us something to drink.  -> 何か飲み物をください
+
+   * 「・・・するために」:目的を表す
+     We studied to pass the test.  -> 試験に合格するために勉強した
+
+   * 「・・・して」:原因を表す
+     We are sorry to hear the news.  -> そのニュースを聞いて残念に思います
+
+#### 動名詞
+ * 動名詞の形:動詞の原型
+   -ing
+   doint, speaking
+
+ * 動名詞の意味と働き
+   「・・・すること」という意味
+   * 主語
+     Ordering books is my responsibility.  -> 本を発注することは私の責任だ
+   * 目的語
+     They suggested raising the price.  -> 彼らは価格を上げることを提案した
+   * 前置詞の目的語
+     Thank you for invitingme.  -> 私を招待してくれてありがとう
+
+ * 不定詞・動名詞の間違いやすいポイント
+   * 「不定詞が続く」と錯覚を起こしやすいイディオム
+     look forward to -ing「・・・することを楽しみにする」
+     We are looking forward to (⚪︎hearing / ×hear) from you.
+
+   * 「動名詞」と「名詞」の使い分け
+     We are sorry for omitting the page.  -> ページを省いてすみません
+     We are sorry for omission the page. これは間違っている！！
+
