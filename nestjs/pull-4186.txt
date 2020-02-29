@@ -1,0 +1,34 @@
+https://github.com/nestjs/nest/pull/4186
+issue: https://github.com/nestjs/nest/issues/4114
+
+## 日本語
+### 修正前の状態は？
+単一のadapterに対して、複数のNestApplicationインスタンスを立ち上げてそれぞれにsetGlobalPrefixを利用した際に、後から`init`メソットを実行したインスタンスのルーターが利用できなくなります。
+
+(ここにサンプルコードと実行結果)
+
+### 修正後は？
+adapterにmiddrewareを設定する際に、`setGlobalPrefix`で登録されたprefixを設定する。
+上記の対応によって、それぞれのインスタンスに対してミドルウェアが設定されるため、ルーターが適切に設定されるようになります。
+
+### 破壊的な変更はある？
+ないです。
+
+`setGlobalPrefix`を利用しない場合、'/'を付与して設定する場合、'/'を付与せずに設定する場合、全てが正常に動作します。
+これは互換性が保たれるように対応しました。
+
+
+### english
+### What is the current behavior?
+When launching multiple NestApplication instances for a single adapter and using setGlobalPrefix for each, the router of the instance that executed the init method later cannot be used.
+
+### What is the new behavior?
+When setting middreware to the adapter, set the prefix registered with setGlobalPrefix.
+
+With the above measures, the middleware is set for each instance, and the router is set appropriately.
+
+### Does this PR introduce a breaking change?
+If we do not use setGlobalPrefix, if we set with '/' added, if we set without '/', everything works normally.
+This has been adapted to maintain compatibility.
+
+
