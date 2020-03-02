@@ -403,3 +403,35 @@ bring : brought : brought
      We are sorry for omitting the page.  -> ページを省いてすみません
      We are sorry for omission the page. これは間違っている！！
 
+#### 分詞
+ * 分詞の種類と意味
+   * 現在分詞
+     -ing  :  能動、進行 ->  「・・・する、・・・している」
+   * 過去分詞
+     -edなど : 受け身、完了 ->  「・・・される、・・・してしまった」
+ * 分詞の働き
+   分詞は形容詞と同じ機能を持ち、名詞を修飾したり、補語になったりします。
+   * 名詞を修飾
+     We met a working women.  -> 私たちは働く女性に会った
+   * 補語
+     We are excited.  -> 私たちは興奮している
+ * 分詞の名詞修飾ルール
+   * 1語だけのときは名詞を前から修飾
+     the working woman  : 働く女性
+      woman をworkingが修飾
+   * ほかの言葉とひとかたまりのときは名詞を後ろから修飾
+     the woman working over there  : 向こうで作業している女性
+      woman をworkingが修飾
+
+##### 現在分詞と過去分詞の使い分け
+ * 分詞が名詞を修飾しているとき
+   修飾されている名詞と分詞の関係が能動か受け身かを考える
+   * 現在分詞: 「・・・する」という能動の意味
+     We help a working woman.  -> 女性は働く
+   * 過去分詞: 「・・・される」という受け身の意味
+     We often buy used goods.  -> 品物は使われる
+
+ * 分詞が補語になっているとき
+   文の主語と分詞の関係が能動か受け身かを考える
+   This book is interesting  ->  本が興味を持たせる
+
