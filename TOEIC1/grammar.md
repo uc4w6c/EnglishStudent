@@ -435,3 +435,50 @@ bring : brought : brought
    文の主語と分詞の関係が能動か受け身かを考える
    This book is interesting  ->  本が興味を持たせる
 
+## 比較
+### 3つの級と比較級の表現
+ * 形容詞・副詞の3つの級の例
+   原型 : 比較級 : 最上級
+   fast : faster : fastest  -> 短い単語
+   difficult : more difficult : the most difficult  -> 長い単語
+
+   * 原級
+     形容詞・副詞の普通の形
+   * 比較級
+     短い単語であれば、語尾に -er をつけ、
+     長い単語や -ly で終わる副詞は、前に moreを置いて作ります。
+   * 最上級
+     前にtheをつける。
+     短い単語であれば、語尾に-estをつけて、
+     長い単語は-lyで終わる副詞は、前にmostを置いて作ります。
+
+ * 形容詞・副詞の3つの級の例
+   原級 : 比較級 : 最上級
+   good : better : the best
+   well : better : the best
+   bad : worse : the worst
+   many : more : the most
+   much : more : the most
+   little : less : least
+
+ * 比較級の文
+   * 比較級の文の形
+     形容詞・副詞の比較級 + than + 比べる対象
+     This car is smaller than ours.  -> この車は私たちのものより小さい
+　
+ * 比較級の重要表現
+   * 比較級を修飾する語句
+     far(かなり), much(かなり), by far(かなり), even(なお、いっそう)
+     veryは違う！！
+   * 「より少ない・・・」「より少なく・・・」を表す表現
+     less + 原級
+     Tom is less old than John.
+   * 否定比較構文
+     否定語と組み合わせることで最上級の意味になる
+     Nobody is more intelligent than you in this department.
+   * その他の慣用表現
+     more than A : 「Aより多く」
+     other than A : 「A以外に」
+     no later than A : 「Aまでに遅れることなく」
+
+
