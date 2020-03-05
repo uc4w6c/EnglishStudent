@@ -481,4 +481,21 @@ bring : brought : brought
      other than A : 「A以外に」
      no later than A : 「Aまでに遅れることなく」
 
+### 最上級の表現
+ * 最上級の文の形: (the)形容詞・副詞の最上級 + 範囲を表す表現
+  This car is smallest of them.
 
+ * 形容詞の最上級に必須のtheに代わるもの
+   名詞、代名詞の所有格がtheの代わりをする
+   Studying is (the, our, Tom's, the student's) best way to succeed.
+ * 最上級の「範囲」を表す表現
+   of, in, among : 「・・・の中で」
+   This song is the best of the five.
+ * since : 「・・・以来」
+   We had the best sales since the opening of our store.
+ * (that) 主語 + 現在完了形: 「・・・してきた中で」
+   That is the best movie (that) I have ever seen.  -> それは今まで見た中で最高の映画だ
+
+### 同等比較
+ * 同等比較の形: as + 形容詞・副詞の原級 + as + 比べる対象
+   Tom is as happy as John.
