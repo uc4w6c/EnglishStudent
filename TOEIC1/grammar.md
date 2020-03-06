@@ -499,3 +499,29 @@ bring : brought : brought
 ### 同等比較
  * 同等比較の形: as + 形容詞・副詞の原級 + as + 比べる対象
    Tom is as happy as John.
+
+## 前置詞と接続詞
+### 前置詞
+ * 位置関係
+  in : ...の中に : in the box (箱の中に)
+  by : ...の横に、そばに : by the door (ドアの横に)
+  near : ...の近くに : near the box (箱の近くに)
+  off : ...から離れて : off the shore (海岸から離れて)
+  on : ...(接触して)上に : on the desk (机の上に)
+  above : ...の真上に : above the desk (机の真上に)
+  over : ...(またがるように)の上に : fly over the town (町の上空を飛ぶ)
+  under : ...の下に : under the desk (机の下に)
+  between : ...の間に : between the beds (ベットの間に)
+
+ * その他
+  for : ...のために : for sale (販売用の)
+  because of : ...のせいで : because of the snow (雪のせいで)
+  with : ...と・で : with scissors (はさみで)
+  without : ...なしに・なしで : without TV (テレビなしで)
+  of : ...の : the name of the city (都市の名前)
+  by : ...によって : by us (私たちによって)
+  among : (3者以上)の間で : among countries (国々の間で)
+  like : ...のような・ように : like doctors (医師のように)
+  as : ...として : as a doctor (医師として)
+  despite : ...にも関わらず : despite the rain (雨にもかかわらず)
+
