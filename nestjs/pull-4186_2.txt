@@ -1,0 +1,124 @@
+## 日本語
+その方法だと以下のような状態になります。
+catsAppにnotFoundHandlerをfalseにして、dogsAppをtrueにした場合
+
+| Handler | Route |
+----|---- 
+| Router | cats/ |
+| NotFound | / |
+| Exception | / |
+| Router | dogs/ |
+
+これだとやはりdogsがエラーになってしまう。
+Expressはrouteをセットした順番で処理していくからです。
+
+対応案は2個あります。
+
+### 案1 コミットしたもの
+RouterにはGlobalPrefixのNotFoundを設定し、'/'のNotFoundもセットする
+
+| Handler | Route |
+----|---- 
+| Router | cats/ |
+| NotFound | /cats |
+| Exception | /cats |
+| Router | dogs/ |
+| NotFound | /dogs |
+| Exception | /dogs |
+| NotFound | / |
+
+メリット: 互換性があり、理想の挙動をする
+デメリット: シンプルではない
+
+### 案2 ルートへのNotFoundをセットするためのメソッドを用意する
+GlobalPrefixにセットしたものでNotFoundを作成する
+
+| Handler | Route |
+----|---- 
+| Router | cats/ |
+| NotFound | /cats |
+| Exception | /cats |
+| Router | dogs/ |
+| NotFound | /dogs |
+| Exception | /dogs |
+
+そしてRouteへのNotFoundセット用のメソットを利用者自身が追加する
+
+```
+const callback = <TRequest, TResponse>(req: TRequest, res: TResponse) => {
+      const method = applicationRef.getRequestMethod(req);
+      const url = applicationRef.getRequestUrl(req);
+      throw new NotFoundException(`Cannot ${method} ${url}`);
+};
+adapter.setNotFoundHandler(callback);
+```
+
+メリット: 実装がシンプル
+デメリット: 互換性がなくなってしまう。
+
+
+## 英語
+If catsApp is set `notFoundHanlder: false` and dogsApp is set 'notFoundHanlder: true`, It will be as follows.
+
+| Handler | Route |
+----|---- 
+| Router | /cats |
+| NotFound | / |
+| Exception | / |
+| Router | /dogs |
+
+So We can't get access to `dogs` router.
+This is because Express is handled in the order that It is set.
+
+I will make two proposals below.
+
+### Plan 1
+This add NotFoundHandler to the "/" route and prefix route.
+This is the commit of `b432140: fix(platform): support notfound in root url when added prefix?`.
+
+| Handler | Route |
+----|---- 
+| Router | /cats |
+| NotFound | /cats |
+| Exception | /cats |
+| Router | /dogs |
+| NotFound | /dogs |
+| Exception | /dogs |
+| NotFound | / |
+
+* Good Point
+Be compatible and behave ideally.
+
+* Bad Point
+Not simple code.
+(HttpAdapter needs to keep the set prefix.)
+
+### Plan 2
+This add NotFoundHandler to the prefix route only.
+
+| Handler | Route |
+----|---- 
+| Router | /cats |
+| NotFound | /cats |
+| Exception | /cats |
+| Router | dogs/ |
+| NotFound | /dogs |
+| Exception | /dogs |
+
+And user need to add the `setNotFoundHandler` to httpadapter by userself.
+
+```
+const callback = <TRequest, TResponse>(req: TRequest, res: TResponse) => {
+      const method = applicationRef.getRequestMethod(req);
+      const url = applicationRef.getRequestUrl(req);
+      throw new NotFoundException(`Cannot ${method} ${url}`);
+};
+adapter.setNotFoundHandler(callback);
+```
+
+* Good Point
+Simple code.
+
+* Bad Point
+Incompatible.
+
