@@ -525,3 +525,74 @@ bring : brought : brought
   as : ...として : as a doctor (医師として)
   despite : ...にも関わらず : despite the rain (雨にもかかわらず)
 
+###  接続詞
+ * 単語:スペースで区切られる1つひとつの言葉
+   英文の最小単位
+   if, you, want など
+ * 句: 2語以上の単語の固まりで、その中に主語と動詞を含まないもの。
+   - to visit Mike (マイクを訪ねること)
+   - before noon (正午前に)
+ * 節: まとまった意味になる2語以上の単語の固まりで、その中に主語と動詞が含まれているもの
+   If you want to visit Mike, (もしあなたがマイクを訪ねたいなら)
+
+#### 等位接続詞
+2つの節を対等の関係でつなぐ接続詞のこと
+ * 主な等位接続詞
+   and: そして  ->  We make baskets, and Henry sells them. (私たちはかごを作り、ヘンリーがそれらを売る)
+   but: しかし  ->  We ordered a pizza, but it never came.
+   or : もしくは さもないと ->  Please call or e-mail me.
+
+ * 等位接続詞の後ろの形
+   前の節と後ろの節の共通の言葉は省略されるので、結果的に等位接続詞が「節と節」だけでなく、
+   「句と句」、「単語と単語」をつないでいるように見えます
+   We sang and (we) danced.  -> sang(単語) , danced(単語)
+   We work at home or (we work) in a workshop.  -> at home(句), in a workshop(句)
+
+ * 文中での位置
+   等位接続詞はつなごうとする2つの節の間にしか置けない
+   × But we ordered a pizza, it never came.  -> これはだめ！
+ * 従位接続詞
+   メインとなる節(主節)に、それを修飾する節や目的語の役割をする節(従節)をくっつける役割をします。
+   * 主な従位接続詞
+     副詞節を導く従位接続詞( *副詞節* と呼ばれる)
+     when : ・・・するときに
+     while: ・・・する間に、する一方
+     before: ・・・する前に
+     after: ・・・した後に
+     since: ・・・して以来
+     until: ・・・するまで
+     as: ・・・につれ、なので、するように
+     because: ・・・なので
+     if: もし・・・なら
+     whether: ・・・であろうとなかろうと
+     though/ although: ・・・だけれども
+
+   * 名詞を導く従位接続詞
+     主語や目的語の働きをするので *名詞節*と呼ばれる
+     that: ・・・ということ
+     whether/ if: ・・・かどうか
+     すべての疑問詞
+
+##### 接続詞の技
+ * And, But, Or は文頭には置けない
+ * 節が2つある文で、接続詞でないものを選ばない
+   以下は接続詞ではない
+    - even(副詞): ・・・でさえ
+    - during(前置詞): ・・・の間
+    - despite: ・・・にもかかわらず
+   など
+ * 一般動詞の直前の空所には、and, but, or のどれかを選ぶ
+   We found a purse --- took it to the security office.
+    took は動詞なので、and を入れる
+
+#### 接続詞の技: 接続詞のセット表現は「相棒」を探して瞬殺
+ * so ... that ~: 「あまりに・・・なので〜だ」
+   We were so tired that we finished work early.  -> 私たちはあまりに疲れていたので早く仕事を終えた
+ * booth A and B : AもBもどちらも
+   You can use booth a credit card and a check.  -> クレジットカードも小切手も使える
+ * not either A or B: AもBも・・・ない
+   You cannot use either a credit card or a check.  -> クレジットカードも小切手も使えない
+ * neither A nor B: AもBも・・・ない
+   You can use neither a credit card nor a check.  -> クレジットカードも小切手も使えない
+ * whether A or B: AかBか
+   Please ask whether you can use a credit card or not.  -> クレジットカードが使えるかどうかをお尋ねください。
