@@ -596,3 +596,61 @@ bring : brought : brought
    You can use neither a credit card nor a check.  -> クレジットカードも小切手も使えない
  * whether A or B: AかBか
    Please ask whether you can use a credit card or not.  -> クレジットカードが使えるかどうかをお尋ねください。
+
+## 関係代名詞
+### whoとwhich
+ * 関係代名詞の働き
+   関係代名詞は、直前にある名詞(「先行詞」と呼ぶ)を指す代名詞で、
+   かつその名詞を修飾する節をつなげる接続詞の働きをします。
+
+   関係代名詞を使わない場合
+   You need an assistant. She will do paperwork.  -> あなたは助手が必要だ。彼女は事務処理をする
+   an assistantが先行詞.Sheが代名詞
+
+   関係代名詞を利用する場合
+   You need an assistant who will do paperwork.  -> あなたには事務処理をする助手が必要だ
+   an assistantが先行詞.whoが関係代名詞
+
+ * 関係代名詞の種類
+   代表的なものは who, which 先行詞によって使い分ける
+   先行詞 : 関係代名詞 : 例
+   人 : who : a man who speaks softly -> 優しく話す男性
+   人以外 : which : a store which sells sweets -> 菓子を売る店
+
+#### 関係代名詞の注意事項
+ * 先行詞が文末にあるとは限らない
+   元: People wait in this line. They apply for a license.  -> 人々はこの列で待つ。彼らは免許を申請する
+   変更: People who apply for a license wait in this line.  -> 免許を申請する人々はこの列で待つ
+     who - 関係代名詞
+ * 目的格の関係代名詞は省略可能
+   This line is for people (who[m]) we called.
+   People (who[m]) we called are waiting in this line.
+
+### thatとwhat
+ * thatとwhatの格
+   that, what ともに所有格はなく、主格と目的格が同じです。
+   先行詞 : 主格 : 所有格 : 目的格
+   なんでも : that : なし : that
+   なし : what : なし : what
+
+   例
+    - Meg is a person that means a lot to us.  -> メグは私たちにとって大きな意味を持つ人物だ
+    - Music is a thing that means a lot to us.  -> 音楽は私たちにとって大きな意味をもつものだ
+    - Music is what means a lot to us.  -> 音楽は私たちにとって大きな意味をもつものだ
+    - This is what I wanted.  -> これが私が欲しかったものだ
+
+#### 関係代名詞の選択の決め手
+ * 直前に名詞があれば、whatは選ばない
+   There are some houses ×what 
+   この場合はwhatはだめ
+ * 直前に前置詞があれば、thatは選ばない
+   The houses are different from ×that
+   この場合thatはだめ
+ * 直前にカンマがあれば thatは選ばない
+   There are some houses, ×that
+   この場合thatはだめ
+ * 直前に名詞がなくても後ろが欠落のない節ならwhatは選ばない
+   We know ×what we lost a lot of money.
+   この場合はwhatはだめ
+
+
