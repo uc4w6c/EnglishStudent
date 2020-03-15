@@ -60,4 +60,44 @@ Part5
 145. B -  -> NG
 146. D    -> NG
 
+5 / 16
 
+### Part 7
+147. D  -> OK
+148. B  -> NG
+
+149. A -  -> NG
+150. D ?  -> OK
+
+151. C  -> OK
+152. A -  -> OK
+
+153. C  -> OK
+154. A  -> OK
+
+155. D ?  -> NG
+156. A ?  -> OK
+157. C ?  -> NG
+
+158. C ?  -> NG
+159. C ?  -> OK
+160. D ?  -> NG
+
+161. D    -> OK
+162. A -  -> NG
+163. C -  -> OK
+
+164. C ?  -> NG
+165. B ?  -> NG
+166. C ?  -> NG
+167. B ?  -> NG
+
+168. C   -> NG
+169. A   -> OK
+170. B?  -> NG
+171. C?  -> OK
+
+12 / 25
+
+ここまでで60分
+According,, indicated, perchase
